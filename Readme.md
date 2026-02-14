@@ -1,4 +1,4 @@
-```markdown
+
 # 🏫 SchoolSync — School Management SaaS (Frontend Demo)
 
 A **pure HTML SaaS prototype** designed to demonstrate how a school owner can monitor daily operations of all departments remotely without visiting the campus.
@@ -210,25 +210,8 @@ in any browser.
 
 No installation required.
 
----
 
-# 📜 License
 
-Demo project for educational and internship evaluation purposes.
-
----
-
-# ✨ Author Note
-
-This project was intentionally built using **only HTML** to demonstrate:
-
-> Strong fundamentals + product thinking > fancy frameworks
-
----
-
-**End of README**
-
-```
 
 ---
 
